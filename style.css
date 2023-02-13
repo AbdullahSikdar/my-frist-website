@@ -1,0 +1,82 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0%;
+}
+
+
+
+.arifa {
+    color: red;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.flexible {
+    display: flex;
+    margin: 100px;
+}
+
+.name {
+    width: 100%;
+    padding: 5%;
+
+}
+
+.name img {
+    width: 50%;
+}
+
+.link {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.topbanner {
+    background-image: url(images/topbanner.png);
+    background-repeat: no-repeat;
+}
+
+.back {
+    background-image: url(images/topbanner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.newped {
+
+    background-repeat: no-repeat;
+    padding: 10px;
+}
+
+.box {
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 25px;
+    border-radius: 10px;
+    border: crimson;
+    box-shadow: 20px 20px 40px royalblue;
+}
+
+#am {
+    border-left: 10px solid aqua;
+}
+
+#jam {
+    border-left: 10px solid red;
+}
+
+footer {
+    text-align: center;
+}
